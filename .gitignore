@@ -1,0 +1,25 @@
+# Outros
+os
+pd
+sqlalchemy
+.venv/
+
+# Vscode sai
+.vscode/
+
+# Arquivos de dados
+*.txt
+*.csv
+*.db
+*.xls
+*.xlsx
+*.sqlite
+
+# Arquivos de Python
+*.pyc
+__pycache__
+_pycache_
+
+# Modelos
+*.pkl
+*.pptx
